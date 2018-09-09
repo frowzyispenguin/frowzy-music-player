@@ -3,5 +3,6 @@ music player for lazy users :)
 
 it's a music player by frowzy it coded by python and use 'mpv' for playing music in Terminal enviroment.
 if you don't have 'mpv' you can install it by enter : "sudo apt install mpv" in Terminal :)
+when script launched type 'music' for dump /Music directory musics :)
 
 Be Happy ! and enjoy musics ;)
